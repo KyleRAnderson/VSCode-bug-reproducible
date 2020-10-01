@@ -9,4 +9,4 @@
    came is correct.
 
 If you succeeded in reproducing the issue with the above steps, you should have something that looks like this:
-![screenshot](./screenshot.png)
+![screenshot](./Screenshot.png)
